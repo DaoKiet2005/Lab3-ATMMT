@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\bin\Debug\Client.exe.config
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\AN TOÀN MẠNG MÁY TÍNH\Asymmetric\Client\obj\Debug\Client.Client.resources
